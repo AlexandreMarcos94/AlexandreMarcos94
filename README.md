@@ -31,3 +31,8 @@ Have a nice day ! 😄
   </a>
 </p>
 
+
+
+Icons : [Skillicons](https://skillicons.dev)
+<br/>
+Github Card stats : [Github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
