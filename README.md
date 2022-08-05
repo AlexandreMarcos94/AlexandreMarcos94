@@ -13,7 +13,7 @@
 
 ## About me
 
-I'm currently learning computing especially mobile developpement at ESGI school, i want to discover new languages and improve my english. I don't know yet  what king of developper i want to be. 
+I'm currently learning computing especially mobile developpement at ESGI school, i want to discover new languages and improve my english. I don't know yet  what kind of developper i want to be. 
 Don't hesitate to contact me if you need.
 
 Have a nice day ! 😄
