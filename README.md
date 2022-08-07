@@ -1,6 +1,6 @@
 # Hi Everyone 👋
 
-## Welcome on my Github Profile
+## Welcome on my Github profile
 
 - Name : Alexandre
 - Age : 22y
