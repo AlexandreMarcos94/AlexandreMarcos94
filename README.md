@@ -20,10 +20,10 @@ Have a nice day ! 😄
 
 
 ## Some statistics
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎
 ![My Github stats](https://github-readme-stats-am.vercel.app/api?username=AlexandreMarcos94&count_private=true&show_icons=true&bg_color=20,5470ea,904e95&title_color=fff&text_color=fff&icon_color=fff&border_radius=10)
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀![My Github stats](https://github-readme-stats-am.vercel.app/api/top-langs/?username=AlexandreMarcos94&show_icons=true&bg_color=20,904e95,5470ea&title_color=fff&text_color=fff&icon_color=fff&border_radius=10&layout=compact&langs_count=10&hide=CSS,Hack)
+‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎
+‎![My Github stats](https://github-readme-stats-am.vercel.app/api/top-langs/?username=AlexandreMarcos94&show_icons=true&bg_color=20,904e95,5470ea&title_color=fff&text_color=fff&icon_color=fff&border_radius=10&layout=compact&langs_count=10&hide=CSS,Hack)
 
 <p align="center">
   <a href="https://skillicons.dev">
