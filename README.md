@@ -27,7 +27,7 @@ Have a nice day ! 😄
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,c,atom,bash,bootstrap,cmake,css,dart,discord,bots,express,flutter,firebase,figma,gradle,gtk,heroku,html,idea,java,js,jquery,kotlin,linkedin,linux,md,maven,mongodb,mysql,nodejs,php,postgres,py,raspberrypi,stackoverflow,swift,vscode&them=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,c,atom,bash,bootstrap,cmake,css,discord,bots,express,flutter,firebase,figma,gradle,heroku,html,idea,java,js,jquery,kotlin,linkedin,linux,md,maven,mongodb,mysql,nodejs,php,postgres,py,raspberrypi,stackoverflow,swift,vscode&them=dark" />
   </a>
 </p>
 
