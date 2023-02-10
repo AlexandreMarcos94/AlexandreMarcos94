@@ -3,7 +3,7 @@
 ## Welcome on my Github profile
 
 - Name : Alexandre
-- Age : 22y
+- Age : 23y
 - 🔭 I’m currently working on school and personnal projects
 - 🌱 I’m currently learning Swift, Koltin and everything i find interesting
 - 🤔 I’m looking for help with developper stuff and english vocabulary
