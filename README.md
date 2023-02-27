@@ -5,7 +5,7 @@
 - Name : Alexandre
 - Age : 23y
 - 🔭 I’m currently working on school and personnal projects
-- 🌱 I’m currently learning Swift, Koltin and everything i find interesting
+- 🌱 I’m currently learning everything i find interesting
 - 🤔 I’m looking for help with developper stuff and english vocabulary
 - 💬 Ask me about everything you want
 - 📫 How to reach me: am94protonmail@protonmail.com
@@ -13,7 +13,7 @@
 
 ## About me
 
-I'm currently learning computing especially mobile developpement at ESGI school, i want to discover new languages and improve my english. I don't know yet  what kind of developper i want to be. 
+I want to discover new languages and improve my english. I don't know yet  what kind of developper i want to be. 
 Don't hesitate to contact me if you need.
 
 Have a nice day ! 😄
