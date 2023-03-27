@@ -13,7 +13,7 @@
 
 ## About me
 
-I want to discover new languages and improve my english. I don't know yet  what kind of developper i want to be. 
+I want to discover new languages and improve my english. I cuu-rrently don't know what kind of developper i want to be. 
 Don't hesitate to contact me if you need.
 
 Have a nice day ! 😄
