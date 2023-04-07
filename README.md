@@ -10,6 +10,8 @@
 - 💬 Ask me about everything you want
 - 📫 How to reach me: am94protonmail@protonmail.com
 
+I'm always open to suggestion on project or new techno to use.
+
 
 ## About me
 
