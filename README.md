@@ -4,9 +4,9 @@
 
 - Name : Alexandre
 - Age : 23y
-- 🔭 I’m currently working on school and personnal projects
-- 🌱 I’m currently learning everything i find interesting
-- 🤔 I’m looking for help with developper stuff and english vocabulary
+- 🔭 I’m currently working on personnal projects
+- 🌱 I’m currently learning cybersecurity stuff
+- 🤔 I’m looking for help with cybersecurity stuff and english vocabulary
 - 💬 Ask me about everything you want
 - 📫 How to reach me: am94protonmail@protonmail.com
 
@@ -15,7 +15,7 @@ I'm always open to suggestion on project or new techno to use.
 
 ## About me
 
-I want to discover new languages and improve my english. I don't know what kind of developper i want to be. 
+I want to discover new languages and improve my english. I want to be a future cybersecurity man (specilaty unknow for the moment). 
 Don't hesitate to contact me if you need.
 
 Have a nice day ! 😄
